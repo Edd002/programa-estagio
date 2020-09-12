@@ -8,11 +8,6 @@ Teste Aiko Digital.
 * Foram criadas classes, servlets, filtros e páginas jsp a fim de cumprir com os requisitos desejados e ainda garantir uma possível escalabilidade do sistema.
 
 
-## Link com Vídeo da Explicação do Projeto
-
-* [Vídeo com Explicação](https://drive.google.com/file/d/1FeOCzYz9bkxyQ64F6YynG75BmIStBdGl/view?usp=sharing)
-
-
 ## Autores
 
 Nome dos contribuidores informação de contato:
